@@ -1,13 +1,19 @@
-+++ 
-draft = false
-date = 2018-09-23T20:46:52-04:00
++++
+date = "2018-09-23"
 title = "init"
-slug = "" 
-tags = []
-categories = []
-thumbnail = "images/tn.png"
-description = ""
+slug = "hugo-template-primer"
+tags = [
+    "hugo",
+    "development",
+]
+categories = [
+    "Development"
+]
 +++
 
-There's nothing here yet...
+Nothing to see here.
+
+Make your mark below!
+
+
 

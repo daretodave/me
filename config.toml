@@ -15,7 +15,7 @@ disqusShortname = "drehmat" # Enable or disable Disqus.
 
 [params] # theme parameters
     author = "David Rehmat" # Author's name.
-    info = "WEB AND APPS ENGINEER" # Author's job title or info.
+    info = "WEB ENGINEER" # Author's job title or info.
     description = "David Rehmat's personal website" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
     avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
@@ -25,7 +25,7 @@ disqusShortname = "drehmat" # Enable or disable Disqus.
     #fixedbarContentAfter = "Thank You! Please share it if you like it→" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
+    hideCredits = true
     hideCopyright = false
 
     # Custom CSS

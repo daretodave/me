@@ -19,7 +19,7 @@ disqusShortname = "drehmat" # Enable or disable Disqus.
     avatarurl = "images/avatar.jpg" # Contain the path of the optionnal avatar in the static folder.
 
     footercontent = "" # Add footer content
-    fixedbarContent = "(╥﹏╥)" # Add fixedbar content
+    fixedbarContent = "" # Add fixedbar content
     fixedbarContentAfter = "(ヘ･_･)ヘ┳━┳" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
